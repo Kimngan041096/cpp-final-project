@@ -1,0 +1,11 @@
+Buddy,Dog,3,0
+Whiskers,Cat,2,0
+Rex,Dog,5,1
+Coco,Parrot,1,0
+Shadow,Cat,4,0
+Goldie,Fish,1,0
+Spike,Turtle,6,0
+Luna,Rabbit,2,1
+Max,Dog,7,0
+Bella,Cat,3,0
+,,0,0
